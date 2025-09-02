@@ -62,5 +62,5 @@ pnpm start
 
 ---
 ## Credits
-- Developed by ([Anthony Crausus] (https://github.com/anthonyc-dev)
+- Developed by **[Anthony Crausus](https://github.com/anthonyc-dev)**
 

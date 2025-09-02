@@ -62,5 +62,5 @@ pnpm start
 
 ---
 ## Credits
-- Developed by [Your Name](https://github.com/yourusername)
+- Developed by Anthony Crausus([https://github.com/yourusername](https://github.com/anthonyc-dev))
 

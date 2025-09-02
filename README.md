@@ -59,3 +59,8 @@ Start the production server:
 ```bash
 pnpm start
 ```
+
+---
+## Credits
+- Developed by [Your Name](https://github.com/yourusername)
+
